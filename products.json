@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Handmade Soap",
+    "price": 250,
+    "image": "images/product1.jpg",
+    "description": "Chemical-free handcrafted soap with natural oils."
+  },
+  {
+    "id": 2,
+    "name": "Organic Honey",
+    "price": 120,
+    "image": "images/product2.jpg",
+    "description": "Pure organic honey from local farmers."
+  },
+  {
+    "id": 3,
+    "name": "Dry Fruits Mix",
+    "price": 450,
+    "image": "images/product3.jpg",
+    "description": "Premium dry fruits including almonds, cashews & raisins."
+  }
+]
+
